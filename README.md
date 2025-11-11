@@ -3,12 +3,12 @@
 Proyecto desarrollado en **Java**, como parte del curso **Introducción a la Programacion Orientada a Objetos con Java – EanX**.  
 El objetivo es crear un sistema orientado a objetos para administrar distintos tipos de electrodomésticos inteligentes utilizando:
 
-✅ Clases abstractas  
-✅ Herencia  
-✅ Polimorfismo  
-✅ Upcasting  
-✅ Sobrescritura de métodos  
-✅ ArrayList con objetos hijos  
+-  Clases abstractas  
+-  Herencia  
+-  Polimorfismo  
+-  Upcasting  
+-  Sobrescritura de métodos  
+-  ArrayList con objetos hijos  
 
 A pesar de ser un proyecto académico, está estructurado  para usarse como parte de tu **portafolio en GitHub**.
 
@@ -16,15 +16,15 @@ A pesar de ser un proyecto académico, está estructurado  para usarse como part
 
 ## 🚀 Funcionalidades principales
 
-- ✅ Clase abstracta base **SmartElectrodomestico**  
-- ✅ Clases hijas: **Televisor** y **Celular**  
-- ✅ Sobrescritura de métodos (polimorfismo)  
-- ✅ Métodos comunes y métodos específicos por tipo  
-- ✅ Búsqueda de equipos por número de serie  
-- ✅ Eliminación de dispositivos  
-- ✅ Inventario gestionado con `ArrayList`  
-- ✅ Simulación completa de encendido, apagado, conexión a Internet y volumen  
-- ✅ Código limpio, modular y fácil de extender  
+-  Clase abstracta base **SmartElectrodomestico**  
+-  Clases hijas: **Televisor** y **Celular**  
+-  Sobrescritura de métodos (polimorfismo)  
+-  Métodos comunes y métodos específicos por tipo  
+-  Búsqueda de equipos por número de serie  
+-  Eliminación de dispositivos  
+-  Inventario gestionado con `ArrayList`  
+-  Simulación completa de encendido, apagado, conexión a Internet y volumen  
+-  Código limpio, modular y fácil de extender  
 
 ---
 
